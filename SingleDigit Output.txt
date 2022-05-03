@@ -1,0 +1,9 @@
+vaibhav@LAPTOP-EQB2SIP9 MINGW32 /e/BridgeLabz/Day40-If-Else-If-Else (main)
+$ Node SingleDigit.js
+Number : 0
+In word- Zero
+
+vaibhav@LAPTOP-EQB2SIP9 MINGW32 /e/BridgeLabz/Day40-If-Else-If-Else (main)
+$ Node SingleDigit.js
+Number : 4
+In word- Four
